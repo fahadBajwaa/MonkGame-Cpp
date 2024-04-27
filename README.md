@@ -20,7 +20,7 @@ Standard Library
 
 **-> Installation**
 
-1. Clone this repository: git clone https://github.com/your_username/dungeon-explorer.git
+1. Clone this repository: git clone:  (https://github.com/fahadBajwaa/MonkGame-Cpp.git)
 2. Navigate to the project directory: cd dungeon-explorer
 3. Compile the source code: g++ -o dungeon_explorer main.cpp
 
